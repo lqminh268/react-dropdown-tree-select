@@ -39,7 +39,7 @@ class NodeLabel extends PureComponent {
   render() {
     const { mode, title, label, id, partial, checked } = this.props
     const { value, disabled, showPartiallySelected, readOnly, clientId } = this.props
-    const nodeLabelProps = { className: 'node-label' }
+    const nodeLabelProps = { className: 'form-check-label form-label' }
 
     // in case of simple select mode, there is no checkbox, so we need to handle the click via the node label
     // but not if the control is in readOnly or disabled state
@@ -55,7 +55,7 @@ class NodeLabel extends PureComponent {
       .join(' ')
 
     return (
-      <label className="form-check" title={title || label} htmlFor={id}>
+      <div className="form-check" title={title || label} htmlFor={id}>
         {mode === 'radioSelect' ? (
           <RadioButton name={clientId} className="radio-item" onChange={this.handleCheckboxChange} {...sharedProps} />
         ) : (
@@ -67,8 +67,10 @@ class NodeLabel extends PureComponent {
             {...sharedProps}
           />
         )}
-        <span {...nodeLabelProps}>{label}</span>
-      </label>
+        <label htmlFor={id} {...nodeLabelProps}>
+          {label}
+        </label>
+      </div>
     )
   }
 }
