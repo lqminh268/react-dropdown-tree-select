@@ -1,18 +1,21 @@
 {
-  "hash": "4241500bfe65d2560e73",
+  "hash": "062add7e463663fdf69f",
   "version": "5.75.0",
-  "time": 10230,
-  "builtAt": 1694259079145,
+  "time": 9777,
+  "builtAt": 1694260031272,
   "publicPath": "auto",
   "outputPath": "D:\\react-dropdown-tree-select\\dist",
   "assetsByChunkName": {
-    "react-dropdown-tree-select": ["styles.css", "react-dropdown-tree-select.js"]
+    "react-dropdown-tree-select": [
+      "styles.css",
+      "react-dropdown-tree-select.js"
+    ]
   },
   "assets": [
     {
       "type": "asset",
       "name": "react-dropdown-tree-select.js",
-      "size": 76298,
+      "size": 76303,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -23,9 +26,11 @@
           "license": "react-dropdown-tree-select.js.LICENSE.txt",
           "sourceMap": "react-dropdown-tree-select.js.map"
         },
-        "size": 76298
+        "size": 76303
       },
-      "chunkNames": ["react-dropdown-tree-select"],
+      "chunkNames": [
+        "react-dropdown-tree-select"
+      ],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
       "auxiliaryChunkIdHints": [],
@@ -34,21 +39,25 @@
         {
           "type": "sourceMap",
           "name": "react-dropdown-tree-select.js.map",
-          "size": 151140,
+          "size": 151182,
           "emitted": true,
           "comparedForEmit": false,
           "cached": false,
           "info": {
             "development": true,
-            "size": 151140
+            "size": 151182
           },
           "chunkNames": [],
           "chunkIdHints": [],
-          "auxiliaryChunkNames": ["react-dropdown-tree-select"],
+          "auxiliaryChunkNames": [
+            "react-dropdown-tree-select"
+          ],
           "auxiliaryChunkIdHints": [],
           "related": {},
           "chunks": [],
-          "auxiliaryChunks": [27],
+          "auxiliaryChunks": [
+            27
+          ],
           "isOverSizeLimit": false
         },
         {
@@ -72,7 +81,9 @@
           "isOverSizeLimit": false
         }
       ],
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
     },
@@ -110,7 +121,9 @@
         },
         "size": 2490
       },
-      "chunkNames": ["react-dropdown-tree-select"],
+      "chunkNames": [
+        "react-dropdown-tree-select"
+      ],
       "chunkIdHints": [],
       "auxiliaryChunkNames": [],
       "auxiliaryChunkIdHints": [],
@@ -129,15 +142,21 @@
           },
           "chunkNames": [],
           "chunkIdHints": [],
-          "auxiliaryChunkNames": ["react-dropdown-tree-select"],
+          "auxiliaryChunkNames": [
+            "react-dropdown-tree-select"
+          ],
           "auxiliaryChunkIdHints": [],
           "related": {},
           "chunks": [],
-          "auxiliaryChunks": [27],
+          "auxiliaryChunks": [
+            27
+          ],
           "isOverSizeLimit": false
         }
       ],
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "auxiliaryChunks": [],
       "isOverSizeLimit": false
     }
@@ -148,18 +167,28 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 165505,
+      "size": 165511,
       "sizes": {
-        "javascript": 162120,
+        "javascript": 162126,
         "css/mini-extract": 2448,
         "runtime": 937
       },
-      "names": ["react-dropdown-tree-select"],
+      "names": [
+        "react-dropdown-tree-select"
+      ],
       "idHints": [],
-      "runtime": ["react-dropdown-tree-select"],
-      "files": ["styles.css", "react-dropdown-tree-select.js"],
-      "auxiliaryFiles": ["react-dropdown-tree-select.js.map", "styles.css.map"],
-      "hash": "f457db2a09406cc6b7a8",
+      "runtime": [
+        "react-dropdown-tree-select"
+      ],
+      "files": [
+        "styles.css",
+        "react-dropdown-tree-select.js"
+      ],
+      "auxiliaryFiles": [
+        "react-dropdown-tree-select.js.map",
+        "styles.css.map"
+      ],
+      "hash": "69078d7555591d6fb267",
       "childrenByOrder": {},
       "id": 27,
       "siblings": [],
@@ -213,7 +242,9 @@
           "warnings": 0,
           "id": 865,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -338,7 +369,9 @@
           "warnings": 0,
           "id": 703,
           "issuerId": 697,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -416,7 +449,9 @@
           "warnings": 0,
           "id": 697,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -1969,7 +2004,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "126:6-33",
+              "loc": "127:6-33",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1983,7 +2018,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "127:11-26",
+              "loc": "128:11-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -1997,21 +2032,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "128:9-25",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "resolvedModule": "./src/tree-node/node-label.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "129:9-36",
+              "loc": "129:9-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2039,7 +2060,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "131:11-25",
+              "loc": "131:9-36",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2067,7 +2088,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "133:12-26",
+              "loc": "133:11-25",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2081,7 +2102,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "134:11-27",
+              "loc": "134:12-26",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2095,7 +2116,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "135:8-23",
+              "loc": "135:11-27",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2109,7 +2130,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "136:25-39",
+              "loc": "136:8-23",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2123,7 +2144,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "137:20-34",
+              "loc": "137:25-39",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2137,7 +2158,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "138:12-26",
+              "loc": "138:20-34",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -2151,7 +2172,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "139:12-28",
+              "loc": "139:12-26",
+              "moduleId": 442,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+              "module": "./src/index.js + 25 modules",
+              "moduleName": "./src/index.js + 25 modules",
+              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+              "resolvedModule": "./src/tree-node/node-label.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "140:12-28",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -3537,7 +3572,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "126:6-33",
+              "loc": "127:6-33",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3551,7 +3586,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "127:11-26",
+              "loc": "128:11-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3565,21 +3600,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "128:9-25",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "module": "./src/tree-node/node-label.js",
-              "moduleName": "./src/tree-node/node-label.js",
-              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "resolvedModule": "./src/tree-node/node-label.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "prop-types",
-              "loc": "129:9-36",
+              "loc": "129:9-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3607,7 +3628,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "131:11-25",
+              "loc": "131:9-36",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3635,7 +3656,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "133:12-26",
+              "loc": "133:11-25",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3649,7 +3670,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "134:11-27",
+              "loc": "134:12-26",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3663,7 +3684,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "135:8-23",
+              "loc": "135:11-27",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3677,7 +3698,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "136:25-39",
+              "loc": "136:8-23",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3691,7 +3712,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "137:20-34",
+              "loc": "137:25-39",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3705,7 +3726,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "138:12-26",
+              "loc": "138:20-34",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -3719,7 +3740,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "prop-types",
-              "loc": "139:12-28",
+              "loc": "139:12-26",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+              "module": "./src/tree-node/node-label.js",
+              "moduleName": "./src/tree-node/node-label.js",
+              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+              "resolvedModule": "./src/tree-node/node-label.js",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "prop-types",
+              "loc": "140:12-28",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -4214,7 +4249,9 @@
           "warnings": 0,
           "id": 414,
           "issuerId": 703,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -4297,7 +4334,9 @@
           "warnings": 0,
           "id": 385,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -4399,9 +4438,9 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 135479,
+          "size": 135485,
           "sizes": {
-            "javascript": 135479
+            "javascript": 135485
           },
           "built": true,
           "codeGenerated": true,
@@ -4422,7 +4461,9 @@
           "errors": 0,
           "warnings": 0,
           "id": 442,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -4454,7 +4495,9 @@
             }
           ],
           "usedExports": true,
-          "providedExports": ["default"],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/array.partial/index.js: Module is not an ECMAScript module",
             "ModuleConcatenation bailout: Cannot concat with ./node_modules/prop-types/index.js: Module is not an ECMAScript module",
@@ -4498,7 +4541,9 @@
               "assets": [],
               "reasons": [],
               "usedExports": true,
-              "providedExports": ["default"],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [
                 "Statement (ExpressionStatement) with side effects in source code at 406:0-435:3"
               ],
@@ -4867,7 +4912,14 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["clientIdGenerator", "debounce", "findIndex", "getDataset", "isEmpty", "isOutsideClick"],
+              "usedExports": [
+                "clientIdGenerator",
+                "debounce",
+                "findIndex",
+                "getDataset",
+                "isEmpty",
+                "isOutsideClick"
+              ],
               "providedExports": [
                 "clientIdGenerator",
                 "debounce",
@@ -4877,7 +4929,9 @@
                 "isOutsideClick",
                 "mapToObject"
               ],
-              "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 6:0-61"],
+              "optimizationBailout": [
+                "Dependency (harmony side effect evaluation) with side effects at 6:0-61"
+              ],
               "depth": 1
             },
             {
@@ -4949,9 +5003,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"
+              ],
               "depth": 1
             },
             {
@@ -5093,8 +5153,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["getAriaLabel"],
-              "providedExports": ["getAriaLabel"],
+              "usedExports": [
+                "getAriaLabel"
+              ],
+              "providedExports": [
+                "getAriaLabel"
+              ],
               "optimizationBailout": [],
               "depth": 1
             },
@@ -5167,9 +5231,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"
+              ],
               "depth": 1
             },
             {
@@ -5241,8 +5311,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [
                 "Statement (ExpressionStatement) with side effects in source code at 130:0-140:3"
               ],
@@ -5317,8 +5391,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [
                 "Statement (ExpressionStatement) with side effects in source code at 188:0-203:3"
               ],
@@ -5393,9 +5471,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 7:0-48"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Dependency (harmony side effect evaluation) with side effects at 7:0-48"
+              ],
               "depth": 1
             },
             {
@@ -5579,9 +5663,18 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["FocusActionNames", "default"],
-              "providedExports": ["FocusActionNames", "NavActions", "default"],
-              "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"],
+              "usedExports": [
+                "FocusActionNames",
+                "default"
+              ],
+              "providedExports": [
+                "FocusActionNames",
+                "NavActions",
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"
+              ],
               "depth": 1
             },
             {
@@ -5658,8 +5751,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [],
               "depth": 2
             },
@@ -5737,8 +5834,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [],
               "depth": 2
             },
@@ -5816,8 +5917,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [],
               "depth": 2
             },
@@ -5895,8 +6000,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [],
               "depth": 2
             },
@@ -5974,9 +6083,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 24:0-44"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 24:0-44"
+              ],
               "depth": 2
             },
             {
@@ -6053,8 +6168,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [],
               "depth": 2
             },
@@ -6188,8 +6307,14 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default", "getTagId"],
-              "providedExports": ["default", "getTagId"],
+              "usedExports": [
+                "default",
+                "getTagId"
+              ],
+              "providedExports": [
+                "default",
+                "getTagId"
+              ],
               "optimizationBailout": [
                 "Statement (ExpressionStatement) with side effects in source code at 111:0-118:3"
               ],
@@ -6269,8 +6394,12 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [
                 "Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"
               ],
@@ -6392,9 +6521,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-36"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Dependency (harmony side effect evaluation) with side effects at 1:0-36"
+              ],
               "depth": 2
             },
             {
@@ -6471,9 +6606,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-48"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Dependency (harmony side effect evaluation) with side effects at 1:0-48"
+              ],
               "depth": 2
             },
             {
@@ -6592,9 +6733,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"
+              ],
               "depth": 2
             },
             {
@@ -6676,18 +6823,24 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"
+              ],
               "depth": 3
             },
             {
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 7507,
+              "size": 7513,
               "sizes": {
-                "javascript": 7507
+                "javascript": 7513
               },
               "built": true,
               "codeGenerated": false,
@@ -6760,10 +6913,14 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
               "optimizationBailout": [
-                "Statement (ExpressionStatement) with side effects in source code at 125:0-140:3"
+                "Statement (ExpressionStatement) with side effects in source code at 126:0-141:3"
               ],
               "depth": 3
             },
@@ -6846,9 +7003,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"
+              ],
               "depth": 3
             },
             {
@@ -6935,9 +7098,15 @@
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"
+              ],
               "depth": 4
             },
             {
@@ -7019,14 +7188,21 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../checkbox",
-                  "loc": "113:42-50",
+                  "loc": "112:58-66",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default", "refUpdater"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default",
+                "refUpdater"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+              ],
               "depth": 4
             },
             {
@@ -7108,14 +7284,21 @@
                   "active": true,
                   "explanation": "",
                   "userRequest": "../radio",
-                  "loc": "107:67-78",
+                  "loc": "108:67-78",
                   "moduleId": null,
                   "resolvedModuleId": null
                 }
               ],
-              "usedExports": ["default"],
-              "providedExports": ["default", "refUpdater"],
-              "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default",
+                "refUpdater"
+              ],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"
+              ],
               "depth": 4
             }
           ]
@@ -7161,7 +7344,9 @@
           "warnings": 0,
           "id": null,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -7180,7 +7365,9 @@
           ],
           "usedExports": null,
           "providedExports": null,
-          "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
           "depth": 2
         },
         {
@@ -7234,7 +7421,9 @@
           "warnings": 0,
           "id": null,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -7253,7 +7442,9 @@
           ],
           "usedExports": null,
           "providedExports": null,
-          "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
           "depth": 4
         },
         {
@@ -7302,7 +7493,9 @@
           "warnings": 0,
           "id": null,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -7321,7 +7514,9 @@
           ],
           "usedExports": null,
           "providedExports": null,
-          "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
           "depth": 3
         },
         {
@@ -7375,7 +7570,9 @@
           "warnings": 0,
           "id": null,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -7394,7 +7591,9 @@
           ],
           "usedExports": null,
           "providedExports": null,
-          "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
           "depth": 4
         },
         {
@@ -7433,7 +7632,9 @@
           "warnings": 0,
           "id": 787,
           "issuerId": null,
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [
             {
@@ -8104,7 +8305,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "107:47-66",
+              "loc": "108:47-66",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8118,7 +8319,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "111:38-57",
+              "loc": "112:38-57",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8132,7 +8333,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "113:22-41",
+              "loc": "117:37-56",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8146,21 +8347,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "118:38-57",
-              "moduleId": 442,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-              "module": "./src/index.js + 25 modules",
-              "moduleName": "./src/index.js + 25 modules",
-              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "resolvedModule": "./src/tree-node/node-label.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "123:2-15",
+              "loc": "124:2-15",
               "moduleId": 442,
               "resolvedModuleId": null
             },
@@ -8790,7 +8977,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "107:47-66",
+              "loc": "108:47-66",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8804,7 +8991,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "111:38-57",
+              "loc": "112:38-57",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8818,7 +9005,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "113:22-41",
+              "loc": "117:37-56",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -8832,21 +9019,7 @@
               "active": true,
               "explanation": "",
               "userRequest": "react",
-              "loc": "118:38-57",
-              "moduleId": null,
-              "resolvedModuleId": null
-            },
-            {
-              "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "module": "./src/tree-node/node-label.js",
-              "moduleName": "./src/tree-node/node-label.js",
-              "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-              "resolvedModule": "./src/tree-node/node-label.js",
-              "type": "harmony import specifier",
-              "active": true,
-              "explanation": "",
-              "userRequest": "react",
-              "loc": "123:2-15",
+              "loc": "124:2-15",
               "moduleId": null,
               "resolvedModuleId": null
             },
@@ -9049,7 +9222,9 @@
           ],
           "usedExports": true,
           "providedExports": null,
-          "optimizationBailout": ["ModuleConcatenation bailout: umd externals can't be concatenated"],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: umd externals can't be concatenated"
+          ],
           "depth": 1
         },
         {
@@ -9078,7 +9253,9 @@
           "errors": 0,
           "warnings": 0,
           "id": "",
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [],
           "usedExports": null,
@@ -9112,7 +9289,9 @@
           "errors": 0,
           "warnings": 0,
           "id": "",
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [],
           "usedExports": null,
@@ -9146,7 +9325,9 @@
           "errors": 0,
           "warnings": 0,
           "id": "",
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [],
           "usedExports": null,
@@ -9180,7 +9361,9 @@
           "errors": 0,
           "warnings": 0,
           "id": "",
-          "chunks": [27],
+          "chunks": [
+            27
+          ],
           "assets": [],
           "reasons": [],
           "usedExports": null,
@@ -9205,9 +9388,9 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 135479,
+      "size": 135485,
       "sizes": {
-        "javascript": 135479
+        "javascript": 135485
       },
       "built": true,
       "codeGenerated": true,
@@ -9227,7 +9410,9 @@
       "errors": 0,
       "warnings": 0,
       "id": 442,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -9259,7 +9444,9 @@
         }
       ],
       "usedExports": true,
-      "providedExports": ["default"],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/array.partial/index.js: Module is not an ECMAScript module",
         "ModuleConcatenation bailout: Cannot concat with ./node_modules/prop-types/index.js: Module is not an ECMAScript module",
@@ -9302,8 +9489,12 @@
           "assets": [],
           "reasons": [],
           "usedExports": true,
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 406:0-435:3"],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 406:0-435:3"
+          ],
           "depth": 0
         },
         {
@@ -9668,7 +9859,14 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["clientIdGenerator", "debounce", "findIndex", "getDataset", "isEmpty", "isOutsideClick"],
+          "usedExports": [
+            "clientIdGenerator",
+            "debounce",
+            "findIndex",
+            "getDataset",
+            "isEmpty",
+            "isOutsideClick"
+          ],
           "providedExports": [
             "clientIdGenerator",
             "debounce",
@@ -9678,7 +9876,9 @@
             "isOutsideClick",
             "mapToObject"
           ],
-          "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 6:0-61"],
+          "optimizationBailout": [
+            "Dependency (harmony side effect evaluation) with side effects at 6:0-61"
+          ],
           "depth": 1
         },
         {
@@ -9749,9 +9949,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"
+          ],
           "depth": 1
         },
         {
@@ -9892,8 +10098,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["getAriaLabel"],
-          "providedExports": ["getAriaLabel"],
+          "usedExports": [
+            "getAriaLabel"
+          ],
+          "providedExports": [
+            "getAriaLabel"
+          ],
           "optimizationBailout": [],
           "depth": 1
         },
@@ -9965,9 +10175,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"
+          ],
           "depth": 1
         },
         {
@@ -10038,9 +10254,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 130:0-140:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 130:0-140:3"
+          ],
           "depth": 1
         },
         {
@@ -10111,9 +10333,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 188:0-203:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 188:0-203:3"
+          ],
           "depth": 1
         },
         {
@@ -10184,9 +10412,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 7:0-48"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Dependency (harmony side effect evaluation) with side effects at 7:0-48"
+          ],
           "depth": 1
         },
         {
@@ -10369,9 +10603,18 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["FocusActionNames", "default"],
-          "providedExports": ["FocusActionNames", "NavActions", "default"],
-          "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"],
+          "usedExports": [
+            "FocusActionNames",
+            "default"
+          ],
+          "providedExports": [
+            "FocusActionNames",
+            "NavActions",
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"
+          ],
           "depth": 1
         },
         {
@@ -10447,8 +10690,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -10525,8 +10772,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -10603,8 +10854,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -10681,8 +10936,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -10759,9 +11018,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 24:0-44"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 24:0-44"
+          ],
           "depth": 2
         },
         {
@@ -10837,8 +11102,12 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
           "optimizationBailout": [],
           "depth": 2
         },
@@ -10971,9 +11240,17 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default", "getTagId"],
-          "providedExports": ["default", "getTagId"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 111:0-118:3"],
+          "usedExports": [
+            "default",
+            "getTagId"
+          ],
+          "providedExports": [
+            "default",
+            "getTagId"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 111:0-118:3"
+          ],
           "depth": 2
         },
         {
@@ -11049,9 +11326,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"
+          ],
           "depth": 2
         },
         {
@@ -11169,9 +11452,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-36"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Dependency (harmony side effect evaluation) with side effects at 1:0-36"
+          ],
           "depth": 2
         },
         {
@@ -11247,9 +11536,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-48"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Dependency (harmony side effect evaluation) with side effects at 1:0-48"
+          ],
           "depth": 2
         },
         {
@@ -11367,9 +11662,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"
+          ],
           "depth": 2
         },
         {
@@ -11450,18 +11751,24 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"
+          ],
           "depth": 3
         },
         {
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 7507,
+          "size": 7513,
           "sizes": {
-            "javascript": 7507
+            "javascript": 7513
           },
           "built": true,
           "codeGenerated": false,
@@ -11533,9 +11840,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 125:0-140:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 126:0-141:3"
+          ],
           "depth": 3
         },
         {
@@ -11616,9 +11929,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"
+          ],
           "depth": 3
         },
         {
@@ -11704,9 +12023,15 @@
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"
+          ],
           "depth": 4
         },
         {
@@ -11787,14 +12112,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "../checkbox",
-              "loc": "113:42-50",
+              "loc": "112:58-66",
               "moduleId": null,
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default", "refUpdater"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default",
+            "refUpdater"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+          ],
           "depth": 4
         },
         {
@@ -11875,14 +12207,21 @@
               "active": true,
               "explanation": "",
               "userRequest": "../radio",
-              "loc": "107:67-78",
+              "loc": "108:67-78",
               "moduleId": null,
               "resolvedModuleId": null
             }
           ],
-          "usedExports": ["default"],
-          "providedExports": ["default", "refUpdater"],
-          "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default",
+            "refUpdater"
+          ],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"
+          ],
           "depth": 4
         }
       ]
@@ -11923,7 +12262,9 @@
       "warnings": 0,
       "id": 697,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -13476,7 +13817,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "126:6-33",
+          "loc": "127:6-33",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13490,7 +13831,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "127:11-26",
+          "loc": "128:11-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13504,21 +13845,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "128:9-25",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "resolvedModule": "./src/tree-node/node-label.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "129:9-36",
+          "loc": "129:9-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13546,7 +13873,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "131:11-25",
+          "loc": "131:9-36",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13574,7 +13901,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "133:12-26",
+          "loc": "133:11-25",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13588,7 +13915,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "134:11-27",
+          "loc": "134:12-26",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13602,7 +13929,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "135:8-23",
+          "loc": "135:11-27",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13616,7 +13943,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "136:25-39",
+          "loc": "136:8-23",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13630,7 +13957,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "137:20-34",
+          "loc": "137:25-39",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13644,7 +13971,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "138:12-26",
+          "loc": "138:20-34",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -13658,7 +13985,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "139:12-28",
+          "loc": "139:12-26",
+          "moduleId": 442,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
+          "module": "./src/index.js + 25 modules",
+          "moduleName": "./src/index.js + 25 modules",
+          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+          "resolvedModule": "./src/tree-node/node-label.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "140:12-28",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -15044,7 +15385,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "126:6-33",
+          "loc": "127:6-33",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15058,7 +15399,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "127:11-26",
+          "loc": "128:11-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15072,21 +15413,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "128:9-25",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "module": "./src/tree-node/node-label.js",
-          "moduleName": "./src/tree-node/node-label.js",
-          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "resolvedModule": "./src/tree-node/node-label.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "prop-types",
-          "loc": "129:9-36",
+          "loc": "129:9-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15114,7 +15441,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "131:11-25",
+          "loc": "131:9-36",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15142,7 +15469,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "133:12-26",
+          "loc": "133:11-25",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15156,7 +15483,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "134:11-27",
+          "loc": "134:12-26",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15170,7 +15497,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "135:8-23",
+          "loc": "135:11-27",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15184,7 +15511,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "136:25-39",
+          "loc": "136:8-23",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15198,7 +15525,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "137:20-34",
+          "loc": "137:25-39",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15212,7 +15539,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "138:12-26",
+          "loc": "138:20-34",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15226,7 +15553,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "prop-types",
-          "loc": "139:12-28",
+          "loc": "139:12-26",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+          "module": "./src/tree-node/node-label.js",
+          "moduleName": "./src/tree-node/node-label.js",
+          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
+          "resolvedModule": "./src/tree-node/node-label.js",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "prop-types",
+          "loc": "140:12-28",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -15709,7 +16050,9 @@
       "warnings": 0,
       "id": 787,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -16380,7 +16723,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "107:47-66",
+          "loc": "108:47-66",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16394,7 +16737,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "111:38-57",
+          "loc": "112:38-57",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16408,7 +16751,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "113:22-41",
+          "loc": "117:37-56",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -16422,21 +16765,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "118:38-57",
-          "moduleId": 442,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\index.js|66d6b8caff7e2002dca9d5b728f371da",
-          "module": "./src/index.js + 25 modules",
-          "moduleName": "./src/index.js + 25 modules",
-          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "resolvedModule": "./src/tree-node/node-label.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "123:2-15",
+          "loc": "124:2-15",
           "moduleId": 442,
           "resolvedModuleId": null
         },
@@ -17066,7 +17395,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "107:47-66",
+          "loc": "108:47-66",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17080,7 +17409,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "111:38-57",
+          "loc": "112:38-57",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17094,7 +17423,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "113:22-41",
+          "loc": "117:37-56",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17108,21 +17437,7 @@
           "active": true,
           "explanation": "",
           "userRequest": "react",
-          "loc": "118:38-57",
-          "moduleId": null,
-          "resolvedModuleId": null
-        },
-        {
-          "moduleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "module": "./src/tree-node/node-label.js",
-          "moduleName": "./src/tree-node/node-label.js",
-          "resolvedModuleIdentifier": "D:\\react-dropdown-tree-select\\node_modules\\babel-loader\\lib\\index.js!D:\\react-dropdown-tree-select\\src\\tree-node\\node-label.js",
-          "resolvedModule": "./src/tree-node/node-label.js",
-          "type": "harmony import specifier",
-          "active": true,
-          "explanation": "",
-          "userRequest": "react",
-          "loc": "123:2-15",
+          "loc": "124:2-15",
           "moduleId": null,
           "resolvedModuleId": null
         },
@@ -17325,7 +17640,9 @@
       ],
       "usedExports": true,
       "providedExports": null,
-      "optimizationBailout": ["ModuleConcatenation bailout: umd externals can't be concatenated"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: umd externals can't be concatenated"
+      ],
       "depth": 1
     },
     {
@@ -17690,7 +18007,14 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["clientIdGenerator", "debounce", "findIndex", "getDataset", "isEmpty", "isOutsideClick"],
+      "usedExports": [
+        "clientIdGenerator",
+        "debounce",
+        "findIndex",
+        "getDataset",
+        "isEmpty",
+        "isOutsideClick"
+      ],
       "providedExports": [
         "clientIdGenerator",
         "debounce",
@@ -17700,7 +18024,9 @@
         "isOutsideClick",
         "mapToObject"
       ],
-      "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 6:0-61"],
+      "optimizationBailout": [
+        "Dependency (harmony side effect evaluation) with side effects at 6:0-61"
+      ],
       "depth": 1
     },
     {
@@ -17771,9 +18097,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 90:0-103:3"
+      ],
       "depth": 1
     },
     {
@@ -17914,8 +18246,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["getAriaLabel"],
-      "providedExports": ["getAriaLabel"],
+      "usedExports": [
+        "getAriaLabel"
+      ],
+      "providedExports": [
+        "getAriaLabel"
+      ],
       "optimizationBailout": [],
       "depth": 1
     },
@@ -17987,9 +18323,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 95:0-102:3"
+      ],
       "depth": 1
     },
     {
@@ -18060,9 +18402,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 130:0-140:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 130:0-140:3"
+      ],
       "depth": 1
     },
     {
@@ -18133,9 +18481,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 188:0-203:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 188:0-203:3"
+      ],
       "depth": 1
     },
     {
@@ -18206,9 +18560,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 7:0-48"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Dependency (harmony side effect evaluation) with side effects at 7:0-48"
+      ],
       "depth": 1
     },
     {
@@ -18391,9 +18751,18 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["FocusActionNames", "default"],
-      "providedExports": ["FocusActionNames", "NavActions", "default"],
-      "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"],
+      "usedExports": [
+        "FocusActionNames",
+        "default"
+      ],
+      "providedExports": [
+        "FocusActionNames",
+        "NavActions",
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 16:0-26:2"
+      ],
       "depth": 1
     },
     {
@@ -18452,7 +18821,9 @@
       ],
       "usedExports": false,
       "providedExports": [],
-      "optimizationBailout": ["ModuleConcatenation bailout: Module is not in any chunk"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
       "depth": 1
     },
     {
@@ -18496,7 +18867,9 @@
       "warnings": 0,
       "id": 703,
       "issuerId": 697,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -18610,8 +18983,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -18688,8 +19065,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -18766,8 +19147,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -18844,8 +19229,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -18922,9 +19311,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 24:0-44"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 24:0-44"
+      ],
       "depth": 2
     },
     {
@@ -19000,8 +19395,12 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
       "optimizationBailout": [],
       "depth": 2
     },
@@ -19134,9 +19533,17 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default", "getTagId"],
-      "providedExports": ["default", "getTagId"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 111:0-118:3"],
+      "usedExports": [
+        "default",
+        "getTagId"
+      ],
+      "providedExports": [
+        "default",
+        "getTagId"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 111:0-118:3"
+      ],
       "depth": 2
     },
     {
@@ -19180,7 +19587,9 @@
       "warnings": 0,
       "id": 385,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -19351,9 +19760,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 163:0-187:3"
+      ],
       "depth": 2
     },
     {
@@ -19471,9 +19886,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-36"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Dependency (harmony side effect evaluation) with side effects at 1:0-36"
+      ],
       "depth": 2
     },
     {
@@ -19549,9 +19970,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Dependency (harmony side effect evaluation) with side effects at 1:0-48"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Dependency (harmony side effect evaluation) with side effects at 1:0-48"
+      ],
       "depth": 2
     },
     {
@@ -19669,9 +20096,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 38:0-42:2"
+      ],
       "depth": 2
     },
     {
@@ -19714,7 +20147,9 @@
       "warnings": 0,
       "id": null,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -19733,7 +20168,9 @@
       ],
       "usedExports": null,
       "providedExports": null,
-      "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
       "depth": 2
     },
     {
@@ -19838,8 +20275,12 @@
         }
       ],
       "usedExports": false,
-      "providedExports": ["default"],
-      "optimizationBailout": ["ModuleConcatenation bailout: Module is not in any chunk"],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
       "depth": 2
     },
     {
@@ -19917,7 +20358,9 @@
       ],
       "usedExports": false,
       "providedExports": [],
-      "optimizationBailout": ["ModuleConcatenation bailout: Module is not in any chunk"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
       "depth": 2
     },
     {
@@ -19966,7 +20409,9 @@
       "warnings": 0,
       "id": 414,
       "issuerId": 703,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -20052,7 +20497,9 @@
       "warnings": 0,
       "id": null,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -20071,7 +20518,9 @@
       ],
       "usedExports": null,
       "providedExports": null,
-      "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
       "depth": 3
     },
     {
@@ -20152,18 +20601,24 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 81:0-84:3"
+      ],
       "depth": 3
     },
     {
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 7507,
+      "size": 7513,
       "sizes": {
-        "javascript": 7507
+        "javascript": 7513
       },
       "built": true,
       "codeGenerated": false,
@@ -20235,9 +20690,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 125:0-140:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 126:0-141:3"
+      ],
       "depth": 3
     },
     {
@@ -20318,9 +20779,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 96:0-101:3"
+      ],
       "depth": 3
     },
     {
@@ -20369,7 +20836,9 @@
       "warnings": 0,
       "id": 865,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -20532,7 +21001,9 @@
       ],
       "usedExports": false,
       "providedExports": [],
-      "optimizationBailout": ["ModuleConcatenation bailout: Module is not in any chunk"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
       "depth": 3
     },
     {
@@ -20615,7 +21086,9 @@
       ],
       "usedExports": false,
       "providedExports": [],
-      "optimizationBailout": ["ModuleConcatenation bailout: Module is not in any chunk"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not in any chunk"
+      ],
       "depth": 3
     },
     {
@@ -20668,7 +21141,9 @@
       "warnings": 0,
       "id": null,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -20687,7 +21162,9 @@
       ],
       "usedExports": null,
       "providedExports": null,
-      "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
       "depth": 4
     },
     {
@@ -20773,9 +21250,15 @@
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 76:0-83:3"
+      ],
       "depth": 4
     },
     {
@@ -20856,14 +21339,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "../checkbox",
-          "loc": "113:42-50",
+          "loc": "112:58-66",
           "moduleId": null,
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default", "refUpdater"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default",
+        "refUpdater"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 85:0-91:3"
+      ],
       "depth": 4
     },
     {
@@ -20944,14 +21434,21 @@
           "active": true,
           "explanation": "",
           "userRequest": "../radio",
-          "loc": "107:67-78",
+          "loc": "108:67-78",
           "moduleId": null,
           "resolvedModuleId": null
         }
       ],
-      "usedExports": ["default"],
-      "providedExports": ["default", "refUpdater"],
-      "optimizationBailout": ["Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default",
+        "refUpdater"
+      ],
+      "optimizationBailout": [
+        "Statement (ExpressionStatement) with side effects in source code at 82:0-88:3"
+      ],
       "depth": 4
     },
     {
@@ -21004,7 +21501,9 @@
       "warnings": 0,
       "id": null,
       "issuerId": null,
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [
         {
@@ -21023,7 +21522,9 @@
       ],
       "usedExports": null,
       "providedExports": null,
-      "optimizationBailout": ["ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
       "depth": 4
     },
     {
@@ -21653,7 +22154,9 @@
       "errors": 0,
       "warnings": 0,
       "id": "",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [],
       "usedExports": null,
@@ -21686,7 +22189,9 @@
       "errors": 0,
       "warnings": 0,
       "id": "",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [],
       "usedExports": null,
@@ -21719,7 +22224,9 @@
       "errors": 0,
       "warnings": 0,
       "id": "",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [],
       "usedExports": null,
@@ -21752,7 +22259,9 @@
       "errors": 0,
       "warnings": 0,
       "id": "",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [],
       "reasons": [],
       "usedExports": null,
@@ -21764,7 +22273,9 @@
   "entrypoints": {
     "react-dropdown-tree-select": {
       "name": "react-dropdown-tree-select",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [
         {
           "name": "styles.css",
@@ -21772,15 +22283,15 @@
         },
         {
           "name": "react-dropdown-tree-select.js",
-          "size": 76298
+          "size": 76303
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78788,
+      "assetsSize": 78793,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select.js.map",
-          "size": 151140
+          "size": 151182
         },
         {
           "name": "styles.css.map",
@@ -21788,7 +22299,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 156131,
+      "auxiliaryAssetsSize": 156173,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
@@ -21797,7 +22308,9 @@
   "namedChunkGroups": {
     "react-dropdown-tree-select": {
       "name": "react-dropdown-tree-select",
-      "chunks": [27],
+      "chunks": [
+        27
+      ],
       "assets": [
         {
           "name": "styles.css",
@@ -21805,15 +22318,15 @@
         },
         {
           "name": "react-dropdown-tree-select.js",
-          "size": 76298
+          "size": 76303
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 78788,
+      "assetsSize": 78793,
       "auxiliaryAssets": [
         {
           "name": "react-dropdown-tree-select.js.map",
-          "size": 151140
+          "size": 151182
         },
         {
           "name": "styles.css.map",
@@ -21821,7 +22334,7 @@
         }
       ],
       "filteredAuxiliaryAssets": 0,
-      "auxiliaryAssetsSize": 156131,
+      "auxiliaryAssetsSize": 156173,
       "children": {},
       "childAssets": {},
       "isOverSizeLimit": false
