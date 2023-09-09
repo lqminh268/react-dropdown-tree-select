@@ -1,8 +1,8 @@
 {
   "hash": "4241500bfe65d2560e73",
   "version": "5.75.0",
-  "time": 9530,
-  "builtAt": 1694258318056,
+  "time": 10230,
+  "builtAt": 1694259079145,
   "publicPath": "auto",
   "outputPath": "D:\\react-dropdown-tree-select\\dist",
   "assetsByChunkName": {
